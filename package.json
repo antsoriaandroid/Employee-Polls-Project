@@ -1,0 +1,19 @@
+{
+  "name": "employee-polls-project",
+  "version": "1.0.0",
+  "description": "This is the starter code for the final assessment project for Udacity's React & Redux course.",
+  "main": "_DATA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antsoriaandroid/Employee-Polls-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antsoriaandroid/Employee-Polls-Project/issues"
+  },
+  "homepage": "https://github.com/antsoriaandroid/Employee-Polls-Project#readme"
+}
