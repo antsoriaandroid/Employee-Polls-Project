@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/antsoriaandroid/Employee-Polls-Project/issues"
   },
-  "homepage": "https://github.com/antsoriaandroid/Employee-Polls-Project#readme"
+  "homepage": "https://github.com/antsoriaandroid/Employee-Polls-Project#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
 }
