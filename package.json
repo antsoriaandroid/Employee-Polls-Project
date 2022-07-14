@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/antsoriaandroid/Employee-Polls-Project#readme",
   "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
     "jest": "^28.1.3"
   }
 }
