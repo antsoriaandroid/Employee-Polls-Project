@@ -3,13 +3,15 @@
   "version": "1.0.0",
   "description": "This is the starter code for the final assessment project for Udacity's React & Redux course.",
   "private": true,
-  "main": "_DATA.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-redux": "^8.0.2",
+    "react-redux-loading-bar": "^5.0.4",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -28,7 +30,6 @@
   "bugs": {
     "url": "https://github.com/antsoriaandroid/Employee-Polls-Project/issues"
   },
-  "homepage": "https://github.com/antsoriaandroid/Employee-Polls-Project#readme",
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
